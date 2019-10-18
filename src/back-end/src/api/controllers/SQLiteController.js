@@ -48,10 +48,10 @@ exports.get_player_info = (req, res, next) => {
                      ,DATE('now')-birthday AS age \
                      ,weight \
                      ,height \
-               FROM Player WHERE id = ?;";
-    let params = [req.query.id];
+               FROM Player WHERE player_name LIKE ?;";
+    let params = "%" + [req.query.name] + "%";    
 
-    db.get(sql, params, (err, row) => {
+    db.all(sql, params, (err, row) => {
         if (err) throw err;
         else {
             if(row) return res.json({ "player" : row });

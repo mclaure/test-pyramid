@@ -12,16 +12,12 @@ import { AppRoutingModule } from './app-routing.module';
 import { FormsModule } from '@angular/forms';
 
 // Components
-import { EmployeeCreateComponent } from './employee-create/employee-create.component';
-import { EmployeeEditComponent } from './employee-edit/employee-edit.component';
-import { EmployeesListComponent } from './employees-list/employees-list.component';
+import { SearchPlayerComponent } from './search-player/search-player.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    EmployeeCreateComponent,
-    EmployeeEditComponent,
-    EmployeesListComponent
+    SearchPlayerComponent
   ],
   imports: [
     BrowserModule,
