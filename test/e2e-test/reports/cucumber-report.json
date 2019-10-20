@@ -1,0 +1,109 @@
+[
+  {
+    "description": "    I should be able to go to a website\n    and check its soccer-playe search functionality   ",
+    "elements": [
+      {
+        "id": "search-soccer-player-testing;soccer-player-search-for-adam",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Soccer-Player search for Adam",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search for an existing player \"Adam\"",
+            "result": {
+              "status": "passed",
+              "duration": 9902545200
+            },
+            "line": 6,
+            "match": {
+              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see a successful message like \"Soccer Players Found\" in the result",
+            "result": {
+              "status": "passed",
+              "duration": 85494600
+            },
+            "line": 7,
+            "match": {
+              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 110309000
+            },
+            "hidden": true,
+            "match": {
+              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "search-soccer-player-testing;soccer-player-search-for-carlos",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Soccer-Player search for Carlos",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I search for a no existing player \"Carlos\"",
+            "result": {
+              "status": "passed",
+              "duration": 9196081599
+            },
+            "line": 9,
+            "match": {
+              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:31"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see an unsuccessful message like \"No Soccer Player Found!\" in the result",
+            "result": {
+              "status": "passed",
+              "duration": 44369400
+            },
+            "line": 10,
+            "match": {
+              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:38"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 94218900
+            },
+            "hidden": true,
+            "match": {
+              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "search-soccer-player-testing",
+    "keyword": "Feature",
+    "line": 2,
+    "name": "Search Soccer-Player Testing",
+    "tags": [],
+    "uri": "d:/Academias/UAB/Automatizacion de Pruebas/Proyecto/test-pyramid/test/e2e-test/features/search-player.feature"
+  }
+]

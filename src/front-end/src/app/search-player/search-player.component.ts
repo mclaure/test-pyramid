@@ -18,6 +18,12 @@ export class SearchPlayerComponent implements OnInit {
 
   ngOnInit() { }
 
+  onKeydown(event) {
+    if (event.key === "Enter") {
+      this.searchPlayer();
+    }
+  }
+
   searchPlayer() {
      return this.restApi.searchPlayer(this.searchItem.criteria).subscribe((data: { }) => {
        this.Players = data;

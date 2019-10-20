@@ -1,7 +1,7 @@
 <div class="container custom-container">
   <div class="col-md-12">
     <div class="form-group">
-      <input name="searchInput" type="text" [(ngModel)]="searchItem.criteria" class="form-control" placeholder="Player's Name">
+      <input name="searchInput" type="text" [(ngModel)]="searchItem.criteria" class="form-control" placeholder="Player's Name"  (keydown)="onKeydown($event)">
     </div>
     <div class="form-group">
       <button name="searchButton" class="btn btn-success btn-lg btn-block" (click)="searchPlayer()">Search</button>
@@ -13,12 +13,12 @@
 
   <!-- Show it when there is no Player -->
   <div class="no-data text-center" *ngIf="Player.length == 0">
-    <p name="NotFoundLabel">No Soccer Player Found!</p>
+    <p id="NotFoundLabel">No Soccer Player Found!</p>
   </div>
 
   <!-- Player list table -->
   <div *ngIf="Player.length !== 0">
-    <h3 name="FoundLabel" class="mb-3 text-center">Soccer Players Found</h3>
+    <h3 id="FoundLabel" class="mb-3 text-center">Soccer Players Found</h3>
 
     <div class="col-md-12">
       <table class="table table-bordered">
