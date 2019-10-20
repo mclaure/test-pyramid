@@ -25,7 +25,7 @@ Simple API that provides soccer statistics using a public database
 * GET /api/countries
 * GET /api/teams
 * GET /api/leagues
-* GET /api/player?id={id}
+* GET /api/player?name={name}
 * GET /api/summary?season={season}
 ---
 ## Author

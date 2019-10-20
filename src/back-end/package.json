@@ -1,5 +1,5 @@
 {
-  "name": "die-mannschaft",
+  "name": "back-end",
   "version": "1.0.0",
   "description": "Soccer statistics API",
   "main": "index.js",
@@ -7,26 +7,13 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mclaure/die-mannschaft.git"
-  },
-  "keywords": [
-    "API",
-    "soccer"
-  ],
   "author": "Marcelo Claure",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mclaure/die-mannschaft/issues"
-  },
-  "homepage": "https://github.com/mclaure/die-mannschaft#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
   "dependencies": {
     "express": "^4.17.1",
-    "mysql": "^2.17.1",
     "sqlite3": "^4.0.9"
   }
 }
