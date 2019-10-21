@@ -18,6 +18,7 @@ Unit test suite for back-end validation
 
 * [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
 
+---
 ## How to use it
 1. Run the following commnad to start the test suite:
 ```
