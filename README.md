@@ -4,11 +4,9 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 ```
 ![Pyramid](https://user-images.githubusercontent.com/24611413/67211292-7c9ae900-f3e8-11e9-8506-25d91f7f3ecf.jpg)
 
----
 
 ## How to install the Project to test
 
----
 
 ## Back-End
 ![Sync-Communication](https://user-images.githubusercontent.com/24611413/62910994-b8626400-bd50-11e9-923b-ef0d5d8f3c1f.jpg)
