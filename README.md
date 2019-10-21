@@ -6,11 +6,11 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 
 ## Installing the project to Test
 ```
-Before to take a look the test suites we need to have a project properly running to be tested.
+The project to test consists in a web solution that prodives soccer statistics about the european soccer league
 ```
 ## Back-End
 ```
-The back-end consists in a group of APIs that provides soccer statistics information.
+The back-end consists in a group of APIs that provides soccer statistics information
 Below schema describes the basic architecture
 ```
 
@@ -21,14 +21,15 @@ Below schema describes the basic architecture
 
 ## Front-End
 ```
-The front-end is an angular application that acts as a search page that consume the GET /api/player?name={name} API to find soccer's player information
+The front-end is an angular application that acts as a search engine that consume the GET /api/player?name={name} API
+If any soccer player is found the results are displayed in the page 
 ```
 ![front-end](https://user-images.githubusercontent.com/24611413/67206749-49ecf280-f3e0-11e9-95cb-96f086559955.jpg)
 * [front-end](https://github.com/mclaure/test-pyramid/tree/master/src/front-end) - For details about how to run the front-end 
 
 ---
 
-## Pre-requisites
+## Pre-Requisites
 
 1. The back-end server must be running (default port 8000):
 
@@ -41,6 +42,7 @@ The front-end is an angular application that acts as a search page that consume 
 
 ## Running the Tests Suites
 
+Following the pyramid-test architecture the tests suites are divided into three groups: Unit Test, Service Test and End-to_end Test
 
 ## Unit Test
 ![unit-test-output](https://user-images.githubusercontent.com/24611413/67208998-8c183300-f3e4-11e9-802c-291e530a4d6a.jpg)
