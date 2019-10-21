@@ -10,7 +10,7 @@ Simple soccer-player search using back-ground's API
 ```
     npm install
 ```
-3. Run the following commnad to start the node server (default port 4200):
+3. Run the following commnad to start the angular project (default port 4200):
 ```
     npm start
 ```
