@@ -22,12 +22,14 @@ Simple API that provides soccer statistics using a public database
 ---
 ## How to use it
 
-- Example using GET /api/player/
+- Example using GET /api/player?name={name}
+
 ![postman-example](https://user-images.githubusercontent.com/24611413/67207344-60477e00-f3e1-11e9-87fe-ca86649e8906.jpg)
 
 ## Available APIs
 
 **SQLite**
+
 * GET /api/countries
 * GET /api/teams
 * GET /api/leagues
