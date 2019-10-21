@@ -24,7 +24,9 @@ Below schema describes the basic architecture
 The front-end is an angular application that consume the GET /api/player?name={name} API
 If any soccer player is found the results are displayed in the page 
 ```
+
 ![front-end](https://user-images.githubusercontent.com/24611413/67206749-49ecf280-f3e0-11e9-95cb-96f086559955.jpg)
+
 * [front-end](https://github.com/mclaure/test-pyramid/tree/master/src/front-end) - For details about how to run the front-end 
 
 ---
