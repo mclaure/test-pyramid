@@ -11,14 +11,16 @@ Services test suite for back-end validation
     npm install
 ```
 ---
-## How to use it
-1. The back-end server must be running first (pre-requisite):
+## Pre-requisite
+1. The back-end server must be running first (default port 8000):
 
 ![npm-start-back-end](https://user-images.githubusercontent.com/24611413/67206646-13af7300-f3e0-11e9-8474-040a7dc4e94d.jpg)
 
-* [back-ground](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
-  
-3. Run the following commnad to start the test suite:
+* [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
+
+---
+## How to use it
+1. Run the following commnad to start the test suite:
 ```
     npm test
 ```
