@@ -9,7 +9,7 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 1. Download all the code
 ---
 
-## How to install the project to test
+## How to install the Project to test
 
 * [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
 * [front-end](https://github.com/mclaure/test-pyramid/tree/master/src/front-end) - For details about how to run the front-end 
