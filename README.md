@@ -16,15 +16,15 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 
 ---
 ## Pre-requisite
-1. The back-end server must be running first (default por 8000):
+1. The back-end server must be running (default port 8000):
 
 ![npm-start-back-end](https://user-images.githubusercontent.com/24611413/67206646-13af7300-f3e0-11e9-8474-040a7dc4e94d.jpg)
 
-2. The front-end service must be running first (default port 4200):
+2. The front-end service must be running (default port 4200):
 
 ![front-end-running](https://user-images.githubusercontent.com/24611413/67209810-0d23fa00-f3e6-11e9-8812-2da29c8c6d20.jpg)
 
-## How to install the Tests Suites
+## How to run the Tests Suites
 
 * [unit-test](https://github.com/mclaure/test-pyramid/tree/master/test/unit-test) - For details about how to run the Unit tests 
 * [service-test](https://github.com/mclaure/test-pyramid/tree/master/test/service-test) - For details about how to run the Service tests
