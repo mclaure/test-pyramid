@@ -43,8 +43,9 @@ If any soccer player is found the results are displayed in the page
 
 
 ## Running the Tests Suites
-
-Following the pyramid-test architecture the tests suites are divided into three groups: Unit Test, Service Test and End-to_end Test
+```
+Following the pyramid-test architecture the tests suites are divided into three groups:
+```
 
 ## Unit Test
 ![unit-test-output](https://user-images.githubusercontent.com/24611413/67208998-8c183300-f3e4-11e9-802c-291e530a4d6a.jpg)
