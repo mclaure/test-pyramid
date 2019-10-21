@@ -21,7 +21,7 @@ Below schema describes the basic architecture
 
 ## Front-End
 ```
-The front-end is an angular application that acts as a search engine that consume the GET /api/player?name={name} API
+The front-end is an angular application that consume the GET /api/player?name={name} API
 If any soccer player is found the results are displayed in the page 
 ```
 ![front-end](https://user-images.githubusercontent.com/24611413/67206749-49ecf280-f3e0-11e9-95cb-96f086559955.jpg)
