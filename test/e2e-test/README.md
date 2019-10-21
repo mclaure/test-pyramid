@@ -1,6 +1,6 @@
 ## e2e-test
 ```
-End-to_end valdiation for front-end and back-end
+End-to-End validation for front-end and back-end
 ```
 ---
 ## Installing
