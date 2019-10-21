@@ -5,16 +5,24 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 ![Test-pyramid2](https://user-images.githubusercontent.com/24611413/67216208-ce477180-f3f0-11e9-9a1d-5b9fe2b06091.jpg)
 
 ## Installing the project to Test
-
+```
 Before to take a look the test suites we need to have a project properly running to be tested.
-
+```
 ## Back-End
+```
+The back-end consists in a group of APIs that provides soccer statistics information.
+Below schema describes the basic architecture
+```
+
 ![back-end-schema](https://user-images.githubusercontent.com/24611413/67214717-36e11f00-f3ee-11e9-82d7-38aa03e99f39.jpg)
 
 * [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
 
 
 ## Front-End
+```
+The front-end is an angular application that acts as a search page that consume the GET /api/player?name={name} API to find soccer's player information
+```
 ![front-end](https://user-images.githubusercontent.com/24611413/67206749-49ecf280-f3e0-11e9-95cb-96f086559955.jpg)
 * [front-end](https://github.com/mclaure/test-pyramid/tree/master/src/front-end) - For details about how to run the front-end 
 
