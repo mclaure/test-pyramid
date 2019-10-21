@@ -20,6 +20,11 @@ Simple API that provides soccer statistics using a public database
 ```
 ![npm-start-back-end](https://user-images.githubusercontent.com/24611413/67206646-13af7300-f3e0-11e9-8474-040a7dc4e94d.jpg)
 ---
+## How to use it
+
+- Example using GET /api/player/
+![postman-example](https://user-images.githubusercontent.com/24611413/67207344-60477e00-f3e1-11e9-87fe-ca86649e8906.jpg)
+
 ## Available APIs
 
 **SQLite**
