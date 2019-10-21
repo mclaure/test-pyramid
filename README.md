@@ -16,6 +16,8 @@ Below schema describes the basic architecture
 
 ![back-end-schema](https://user-images.githubusercontent.com/24611413/67214717-36e11f00-f3ee-11e9-82d7-38aa03e99f39.jpg)
 
+* [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's
+
 ## Available APIs
 
 **SQLite**
@@ -25,9 +27,6 @@ Below schema describes the basic architecture
 * GET /api/leagues
 * GET /api/player?name={name}
 * GET /api/summary?season={season}
-
-* [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
-
 
 ## Front-End
 ```
