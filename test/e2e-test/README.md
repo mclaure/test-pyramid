@@ -12,7 +12,7 @@ End-to-End validation for front-end and back-end
 ```
 ---
 ## Pre-requisite
-1. The back-end server must be running first (default por 8000):
+1. The back-end server must be running first (default port 8000):
 
 ![npm-start-back-end](https://user-images.githubusercontent.com/24611413/67206646-13af7300-f3e0-11e9-8474-040a7dc4e94d.jpg)
 
