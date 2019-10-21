@@ -4,10 +4,7 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 ```
 ![Test-pyramid](https://user-images.githubusercontent.com/24611413/67215889-43667700-f3f0-11e9-9dff-76155577a619.jpg)
 
----
-
-## How to Install The Project to Test
-
+## Installing the project to Test
 
 ## Back-End
 ![back-end-schema](https://user-images.githubusercontent.com/24611413/67214717-36e11f00-f3ee-11e9-82d7-38aa03e99f39.jpg)
