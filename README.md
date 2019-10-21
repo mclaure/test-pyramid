@@ -5,7 +5,7 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 ![Pyramid](https://user-images.githubusercontent.com/24611413/67211292-7c9ae900-f3e8-11e9-8506-25d91f7f3ecf.jpg)
 
 
-## How to install the Project to test
+## How to Install The Project to Test
 
 
 ## Back-End
@@ -21,6 +21,7 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 ---
 
 ## Pre-requisites
+
 1. The back-end server must be running (default port 8000):
 
 ![npm-start-back-end](https://user-images.githubusercontent.com/24611413/67206646-13af7300-f3e0-11e9-8474-040a7dc4e94d.jpg)
@@ -29,11 +30,9 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 
 ![front-end-running](https://user-images.githubusercontent.com/24611413/67209810-0d23fa00-f3e6-11e9-8812-2da29c8c6d20.jpg)
 
----
 
 ## Running the Tests Suites
 
----
 
 ## Unit Test
 ![unit-test-output](https://user-images.githubusercontent.com/24611413/67208998-8c183300-f3e4-11e9-802c-291e530a4d6a.jpg)
