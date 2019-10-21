@@ -16,7 +16,7 @@ Unit test suite for back-end validation
 
 ![npm-start-back-end](https://user-images.githubusercontent.com/24611413/67206646-13af7300-f3e0-11e9-8474-040a7dc4e94d.jpg)
 
-*For details about how to run the back-end you can go [here](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) 
+* For details about how to run the back-end you can go [here](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) 
   
 3. Run the following commnad to start the test suite:
 ```
