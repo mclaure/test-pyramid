@@ -13,7 +13,6 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 
 * [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
 
----
 
 ## Front-End
 ![front-end](https://user-images.githubusercontent.com/24611413/67206749-49ecf280-f3e0-11e9-95cb-96f086559955.jpg)
