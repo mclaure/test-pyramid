@@ -1,4 +1,4 @@
-## back-end : Sync API solution
+## back-end
 ```
 Simple API that provides soccer statistics using a public database
 ```
@@ -16,7 +16,7 @@ Simple API that provides soccer statistics using a public database
 ```
 3. Run the following commnad to start the node server (default port 8000):
 ```
-    node server.js
+    npm start
 ```
 ---
 ## Available APIs
