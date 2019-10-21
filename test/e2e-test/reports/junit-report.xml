@@ -2,22 +2,22 @@
 <testsuites>
     <testsuite name="search-soccer-player-testing;soccer-player-search-for-adam" tests="2" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="d:/Academias/UAB/Automatizacion de Pruebas/Proyecto/test-pyramid/test/e2e-test/features/search-player.feature">
+            <property name="URI" value="e:/Trainings/test-pyramid/test/e2e-test/features/search-player.feature">
             </property>
         </properties>
-        <testcase name="When I search for an existing player &quot;Adam&quot;" classname="search-soccer-player-testing;soccer-player-search-for-adam" time="9.9025452">
+        <testcase name="When I search for an existing player &quot;Adam&quot;" classname="search-soccer-player-testing;soccer-player-search-for-adam" time="2.1108818">
         </testcase>
-        <testcase name="Then I should see a successful message like &quot;Soccer Players Found&quot; in the result" classname="search-soccer-player-testing;soccer-player-search-for-adam" time="0.0854946">
+        <testcase name="Then I should see a successful message like &quot;Soccer Players Found&quot; in the result" classname="search-soccer-player-testing;soccer-player-search-for-adam" time="0.102167699">
         </testcase>
     </testsuite>
     <testsuite name="search-soccer-player-testing;soccer-player-search-for-carlos" tests="2" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="d:/Academias/UAB/Automatizacion de Pruebas/Proyecto/test-pyramid/test/e2e-test/features/search-player.feature">
+            <property name="URI" value="e:/Trainings/test-pyramid/test/e2e-test/features/search-player.feature">
             </property>
         </properties>
-        <testcase name="When I search for a no existing player &quot;Carlos&quot;" classname="search-soccer-player-testing;soccer-player-search-for-carlos" time="9.196081599">
+        <testcase name="When I search for a no existing player &quot;Carlos&quot;" classname="search-soccer-player-testing;soccer-player-search-for-carlos" time="1.205127099">
         </testcase>
-        <testcase name="Then I should see an unsuccessful message like &quot;No Soccer Player Found!&quot; in the result" classname="search-soccer-player-testing;soccer-player-search-for-carlos" time="0.0443694">
+        <testcase name="Then I should see an unsuccessful message like &quot;No Soccer Player Found!&quot; in the result" classname="search-soccer-player-testing;soccer-player-search-for-carlos" time="0.0361075">
         </testcase>
     </testsuite>
 </testsuites>

@@ -14,11 +14,11 @@
             "name": "I search for an existing player \"Adam\"",
             "result": {
               "status": "passed",
-              "duration": 9902545200
+              "duration": 2110881800
             },
             "line": 6,
             "match": {
-              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:6"
+              "location": "e:\\Trainings\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:6"
             }
           },
           {
@@ -27,11 +27,11 @@
             "name": "I should see a successful message like \"Soccer Players Found\" in the result",
             "result": {
               "status": "passed",
-              "duration": 85494600
+              "duration": 102167699
             },
             "line": 7,
             "match": {
-              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:13"
+              "location": "e:\\Trainings\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:13"
             }
           },
           {
@@ -39,11 +39,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 110309000
+              "duration": 122129401
             },
             "hidden": true,
             "match": {
-              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "e:\\Trainings\\test-pyramid\\test\\e2e-test\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -62,11 +62,11 @@
             "name": "I search for a no existing player \"Carlos\"",
             "result": {
               "status": "passed",
-              "duration": 9196081599
+              "duration": 1205127099
             },
             "line": 9,
             "match": {
-              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:31"
+              "location": "e:\\Trainings\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:31"
             }
           },
           {
@@ -75,11 +75,11 @@
             "name": "I should see an unsuccessful message like \"No Soccer Player Found!\" in the result",
             "result": {
               "status": "passed",
-              "duration": 44369400
+              "duration": 36107500
             },
             "line": 10,
             "match": {
-              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:38"
+              "location": "e:\\Trainings\\test-pyramid\\test\\e2e-test\\step-definitions\\search-player-steps.js:38"
             }
           },
           {
@@ -87,11 +87,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 94218900
+              "duration": 118901900
             },
             "hidden": true,
             "match": {
-              "location": "Pruebas\\Proyecto\\test-pyramid\\test\\e2e-test\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "e:\\Trainings\\test-pyramid\\test\\e2e-test\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -104,6 +104,6 @@
     "line": 2,
     "name": "Search Soccer-Player Testing",
     "tags": [],
-    "uri": "d:/Academias/UAB/Automatizacion de Pruebas/Proyecto/test-pyramid/test/e2e-test/features/search-player.feature"
+    "uri": "e:/Trainings/test-pyramid/test/e2e-test/features/search-player.feature"
   }
 ]
