@@ -16,7 +16,13 @@ Simple soccer-player search using back-ground's API
 ```
 ---
 ## UI Preview
+1. Go to http:localhost:4200:
+2. For existing soccer's player:
 
+![soccer-player-search](https://user-images.githubusercontent.com/24611413/67205976-cf6fa300-f3de-11e9-96d3-34df697a878f.jpg)
+
+3. For non-existing soccer's player:
+![soccer-player-search-not-found](https://user-images.githubusercontent.com/24611413/67205999-d5fe1a80-f3de-11e9-969d-890af6f17fc2.jpg)
 
 ---
 ## Author
