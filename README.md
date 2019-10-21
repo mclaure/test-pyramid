@@ -3,13 +3,11 @@
 Multiple test suites to validate back-end and front-end functionality from a simple project
 ```
 ![Pyramid](https://user-images.githubusercontent.com/24611413/67211292-7c9ae900-f3e8-11e9-8506-25d91f7f3ecf.jpg)
----
-## Installing
 
-1. Download all the code
 ---
-
 ## How to install the Project to test
+---
+
 ## Back-End
 ![Sync-Communication](https://user-images.githubusercontent.com/24611413/62910994-b8626400-bd50-11e9-923b-ef0d5d8f3c1f.jpg)
 
@@ -20,6 +18,7 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 * [FRONT-END](https://github.com/mclaure/test-pyramid/tree/master/src/front-end) - For details about how to run the front-end 
 
 ---
+
 ## Pre-requisites
 1. The back-end server must be running (default port 8000):
 
@@ -29,7 +28,10 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 
 ![front-end-running](https://user-images.githubusercontent.com/24611413/67209810-0d23fa00-f3e6-11e9-8812-2da29c8c6d20.jpg)
 
+---
+
 ## Running the Tests Suites
+
 ---
 ## Unit Test
 ![unit-test-output](https://user-images.githubusercontent.com/24611413/67208998-8c183300-f3e4-11e9-802c-291e530a4d6a.jpg)
