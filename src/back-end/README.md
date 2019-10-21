@@ -1,4 +1,4 @@
-## die-mannschaft : Sync API solution
+## back-end : Sync API solution
 ```
 Simple API that provides soccer statistics using a public database
 ```
