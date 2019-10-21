@@ -25,7 +25,7 @@ The front-end is an angular application that consume the GET /api/player?name={n
 If any soccer player is found the results are displayed in the page 
 ```
 
-![soccer-player-search-not-found](https://user-images.githubusercontent.com/24611413/67205999-d5fe1a80-f3de-11e9-969d-890af6f17fc2.jpg)
+![soccer-player-search](https://user-images.githubusercontent.com/24611413/67205976-cf6fa300-f3de-11e9-96d3-34df697a878f.jpg)
 
 * [front-end](https://github.com/mclaure/test-pyramid/tree/master/src/front-end) - For details about how to run the front-end 
 
