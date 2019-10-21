@@ -2,7 +2,7 @@
 ```
 Multiple test suites to validate back-end and front-end functionality from a simple project
 ```
-![Test-pyramid2](https://user-images.githubusercontent.com/24611413/67216208-ce477180-f3f0-11e9-9a1d-5b9fe2b06091.jpg)
+![Test-pyramid3](https://user-images.githubusercontent.com/24611413/67218634-b245cf00-f3f4-11e9-87c7-857c36f63a2e.jpg)
 
 ## Installing the project to Test
 ```
