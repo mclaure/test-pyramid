@@ -7,16 +7,12 @@ Multiple test suites to validate back-end and front-end functionality from a sim
 ## Installing
 
 1. Download all the code
-2. Install each project separately:
+---
 
-Project to Test:
+## How to install the project to test
+
 * [back-end](https://github.com/mclaure/test-pyramid/tree/master/src/back-end) - For details about how to run the back-end API's 
 * [front-end](https://github.com/mclaure/test-pyramid/tree/master/src/front-end) - For details about how to run the front-end 
-
-Tests Suites:
-* [unit-test](https://github.com/mclaure/test-pyramid/tree/master/test/unit-test) - For details about how to run the Unit tests 
-* [service-test](https://github.com/mclaure/test-pyramid/tree/master/test/service-test) - For details about how to run the Service tests
-* [e2e-test](https://github.com/mclaure/test-pyramid/tree/master/test/e2e-test) - For details about how to run the End-to-End tests
 
 ---
 ## Pre-requisite
@@ -27,6 +23,12 @@ Tests Suites:
 2. The front-end service must be running first (default port 4200):
 
 ![front-end-running](https://user-images.githubusercontent.com/24611413/67209810-0d23fa00-f3e6-11e9-8812-2da29c8c6d20.jpg)
+
+## How to install the Tests Suites
+
+* [unit-test](https://github.com/mclaure/test-pyramid/tree/master/test/unit-test) - For details about how to run the Unit tests 
+* [service-test](https://github.com/mclaure/test-pyramid/tree/master/test/service-test) - For details about how to run the Service tests
+* [e2e-test](https://github.com/mclaure/test-pyramid/tree/master/test/e2e-test) - For details about how to run the End-to-End tests
 
 ## Author
 
