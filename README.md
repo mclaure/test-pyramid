@@ -2,9 +2,11 @@
 ```
 Multiple test suites to validate back-end and front-end functionality from a simple project
 ```
-![Test-pyramid](https://user-images.githubusercontent.com/24611413/67215889-43667700-f3f0-11e9-9dff-76155577a619.jpg)
+![Test-pyramid2](https://user-images.githubusercontent.com/24611413/67216208-ce477180-f3f0-11e9-9a1d-5b9fe2b06091.jpg)
 
 ## Installing the project to Test
+
+Before to take a look the test suites we need to have a project properly running to be tested.
 
 ## Back-End
 ![back-end-schema](https://user-images.githubusercontent.com/24611413/67214717-36e11f00-f3ee-11e9-82d7-38aa03e99f39.jpg)
